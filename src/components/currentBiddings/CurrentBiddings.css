@@ -1,0 +1,29 @@
+.opportunity-card {
+    border: 1px solid rgba(64, 66, 69);
+    background-color: rgba(40, 43, 47);
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    max-width: 400px;
+
+    margin: 0 auto;
+}
+
+.opportunity-card-left img {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.opportunity-card-name {
+    border-bottom: 2px solid rgba(64, 66, 69);
+    padding-bottom: 20px;
+
+}
+
+.opportunity-card-right {
+    width: 100%;
+
+    padding: 0 15px;
+}

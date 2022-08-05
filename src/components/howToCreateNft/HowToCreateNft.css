@@ -1,0 +1,72 @@
+.howToCreateNft {
+    background-image: url(../../../public/images/main-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    width: 100%;
+
+}
+
+.htc-box:nth-child(2) {
+    border-right: 1px solid rgba(255, 255, 255, 0.452);
+    border-left: 1px solid rgba(255, 255, 255, 0.452);
+}
+
+.htc-button {
+    border: none;
+    height: 50px;
+    width: 200px;
+    background-color: rgba(116, 83, 252);
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    transition: 300ms all ease;
+    -webkit-transition: 300ms all ease;
+    -moz-transition: 300ms all ease;
+    -ms-transition: 300ms all ease;
+    -o-transition: 300ms all ease;
+}
+
+.htc-button:hover {
+    background-color: white;
+    color: black !important;
+}
+
+.htc-box-img img {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+
+}
+
+.htc-box-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    padding: 15px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.htc-box-content a {
+    color: rgb(79, 187, 230);
+}
+
+
+
+@media only screen and (max-width: 992px) {
+
+    .htc-box:nth-child(2) {
+        border-right: none;
+        border-left: none;
+    }
+}

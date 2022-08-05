@@ -1,0 +1,94 @@
+.item-market {
+    background-image: url(../../../public/images/dark-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.item-market-title-span {
+    color: rgba(116, 83, 252);
+}
+
+.nft-tab-panel .nav-item button {
+    background-color: rgba(116, 83, 252) !important;
+    color: white;
+    height: 40px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.nft-tab-panel button:hover {
+    color: white;
+}
+
+.nft-tab-panel {
+    width: 300px;
+}
+
+.nft-tab-panel .nav-item button.active {
+    background-color: rgb(255, 255, 255) !important;
+    color: black !important;
+
+}
+
+
+.nft-market-item-box {
+    background-color: rgba(40, 43, 47);
+    padding: 30px 0px 30px 0;
+    border: 1px solid rgba(64, 66, 69);
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    max-width: 500px;
+    margin: 0 auto;
+
+}
+
+.nft-market-item-box a {
+    color: rgba(116, 83, 252);
+    font-weight: bold;
+}
+
+.nft-market-item-box-img img {
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    min-height: 100%;
+}
+
+.nft-market-info-user img {
+    width: 60px;
+    height: 60px;
+
+}
+
+.nft-market-info {
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(64, 66, 69);
+}
+
+.nft-market-item-price {
+    height: 150px;
+}
+
+@media only screen and (max-width: 600px) {
+    .nft-market-item-price {
+        height: 100px;
+    }
+
+
+}
+
+@media only screen and (min-width: 1100px) {
+    .nft-market-item-box-img img {
+        min-width: 200px;
+    }
+}

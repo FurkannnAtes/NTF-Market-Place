@@ -1,0 +1,56 @@
+.our-items-box {
+    background-color: rgba(40, 43, 47);
+    border: 1px solid rgba(64, 66, 69);
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    padding: 40px 30px;
+    margin: 0 auto;
+    max-width: 300px;
+
+
+}
+
+.discover-img {
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    max-height: 190px;
+    min-height: 190px;
+}
+
+.our-items-box-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-bottom: 1px solid rgba(64, 66, 69);
+    padding: 10px 0;
+}
+
+.our-items-box-pill {
+    background-color: rgba(116, 83, 252);
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    transition: 300ms all ease;
+    -webkit-transition: 300ms all ease;
+    -moz-transition: 300ms all ease;
+    -ms-transition: 300ms all ease;
+    -o-transition: 300ms all ease;
+}
+
+.our-items-box-pill:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}

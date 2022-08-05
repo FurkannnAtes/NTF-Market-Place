@@ -1,0 +1,71 @@
+.one-item-details-title {
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+.one-item-details-title span {
+    color: rgba(116, 83, 252);
+}
+
+.one-item-img {
+    border-radius: 35px;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    -ms-border-radius: 35px;
+    -o-border-radius: 35px;
+}
+
+.one-item-details-card-right {
+    min-height: 300px;
+
+}
+
+
+.one-item-details-card-right-btns button:last-child {
+    border: none;
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: rgba(116, 83, 252);
+    transition: 300ms all ease;
+    -webkit-transition: 300ms all ease;
+    -moz-transition: 300ms all ease;
+    -ms-transition: 300ms all ease;
+    -o-transition: 300ms all ease;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.one-item-details-card-right-btns button:last-child:hover {
+    color: black;
+    background-color: white;
+}
+
+.one-item-details-card-right-btns button:nth-child(2) {
+    border: 1px solid rgba(116, 83, 252);
+    height: 40px;
+    padding: 0 10px;
+    color: white;
+    background-color: transparent;
+    transition: 300ms all ease;
+    -webkit-transition: 300ms all ease;
+    -moz-transition: 300ms all ease;
+    -ms-transition: 300ms all ease;
+    -o-transition: 300ms all ease;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    margin: 0 10px;
+}
+
+.one-item-details-card-right-btns button:nth-child(2):hover {
+    background-color: rgba(116, 83, 252);
+
+}

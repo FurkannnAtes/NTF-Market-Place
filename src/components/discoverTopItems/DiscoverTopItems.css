@@ -1,0 +1,26 @@
+.discover-content {
+    background-image: url(../../../public/images/heading-bg.jpg);
+    padding-top: 200px;
+    position: relative;
+}
+
+.discover-slider-item {
+    text-align: center;
+
+
+
+}
+
+.discover-slider-item img {
+    width: 80%;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+
+}
+
+.discover-slider button {
+    z-index: 5;
+}

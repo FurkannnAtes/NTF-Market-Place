@@ -1,0 +1,133 @@
+.author-header {
+    background-image: url(../../../public/images/heading-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 80vh;
+    padding-top: 300px;
+    color: white;
+}
+
+.author-header-btns {
+    height: 80px;
+    width: 370px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.author-header-btns button:first-child {
+    border: none;
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: rgba(116, 83, 252);
+    transition: 300ms all ease;
+    -webkit-transition: 300ms all ease;
+    -moz-transition: 300ms all ease;
+    -ms-transition: 300ms all ease;
+    -o-transition: 300ms all ease;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.author-header-btns button:first-child:hover {
+    color: black;
+    background-color: white;
+}
+
+.author-header-btns button:last-child {
+    border: 1px solid rgba(116, 83, 252);
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: transparent;
+    transition: 300ms all ease;
+    -webkit-transition: 300ms all ease;
+    -moz-transition: 300ms all ease;
+    -ms-transition: 300ms all ease;
+    -o-transition: 300ms all ease;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.author-header-btns button:last-child:hover {
+    background-color: rgba(116, 83, 252);
+
+}
+
+.our-item-bg {
+
+    background-image: url(../../../public/images/dark-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px 0 100px 0;
+    width: 100%;
+    overflow-x: hidden;
+
+}
+
+.single-author-stats-box {
+    background-color: rgba(40, 43, 47);
+    border: 1px solid rgba(64, 66, 69);
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    width: 500px;
+}
+
+.single-author-stats-box-head i {
+    color: rgba(116, 83, 252);
+    font-size: 2rem;
+}
+
+.single-author-stats-box-footer button {
+    background-color: rgba(116, 83, 252);
+    color: white;
+    min-height: 40px;
+    width: 200px;
+    border: none;
+    transition: 300ms all ease;
+    -webkit-transition: 300ms all ease;
+    -moz-transition: 300ms all ease;
+    -ms-transition: 300ms all ease;
+    -o-transition: 300ms all ease;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.single-author-stats-box-footer button:hover {
+    background-color: white;
+    color: black;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .single-author-stats-box {
+        width: 350px;
+    }
+
+    .single-author-img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .single-author-stats-box-footer button {
+
+        width: 150px;
+
+    }
+}

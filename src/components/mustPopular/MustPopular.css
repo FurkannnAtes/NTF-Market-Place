@@ -1,0 +1,48 @@
+.must-popular {
+    background-image: url(../../../public/images/dark-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 50px 0;
+    width: 100%;
+}
+
+.catagories {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.catagories-title span,
+.collections-title span {
+    color: rgba(116, 83, 252);
+}
+
+.catagories-box {
+    border: 1px solid rgba(64, 66, 69);
+    padding: 20px 0;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    height: 150px;
+    background-color: rgba(40, 43, 47);
+
+}
+
+.catagories-img-box {
+    background-color: white;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    padding: 10px;
+
+}

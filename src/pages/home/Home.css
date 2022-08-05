@@ -1,0 +1,77 @@
+.banner {
+    background-image: url(images/banner-bg.jpg);
+    padding-top: 50px;
+    min-height: 140vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.banner-row {
+    min-height: 100vh;
+}
+
+.banner-box {
+    width: 500px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+
+.b-subTitle {
+    font-size: 3rem;
+}
+
+.b-content {
+    font-size: 1.1rem;
+}
+
+.explore-btn {
+    background-color: transparent;
+    border: 1px solid rgba(116, 83, 252);
+    margin-right: 10px;
+    color: white;
+    height: 50px;
+    width: 200px;
+    transition: 300ms all ease;
+    -webkit-transition: 300ms all ease;
+    -moz-transition: 300ms all ease;
+    -ms-transition: 300ms all ease;
+    -o-transition: 300ms all ease;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.explore-btn:hover {
+    background-color: rgba(116, 83, 252);
+    color: white;
+}
+
+.watch-btn {
+    background-color: rgba(116, 83, 252);
+    border: 1px solid rgba(116, 83, 252);
+
+    color: white;
+    height: 50px;
+    width: 200px;
+    transition: 300ms all ease;
+    -webkit-transition: 300ms all ease;
+    -moz-transition: 300ms all ease;
+    -ms-transition: 300ms all ease;
+    -o-transition: 300ms all ease;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.watch-btn:hover {
+    background-color: white;
+    color: black;
+}
