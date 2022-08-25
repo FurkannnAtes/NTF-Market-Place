@@ -37,7 +37,7 @@ const ItemMarket = () => {
                                             <img className='rounded rounded-circle me-2' src="/images/author.jpg" alt="" />
                                             <span className='d-flex flex-column  justify-content-center'>
                                                 <span>Liberty Artist</span>
-                                                <a href=''>@libertyart</a>
+                                                <a href='/'>@libertyart</a>
                                             </span>
                                         </div>
                                     </div>
@@ -55,7 +55,7 @@ const ItemMarket = () => {
                                         </div>
                                     </div>
                                     <div className="nft-market-item-link mt-auto">
-                                        <a href="">View Item Details</a>
+                                        <a href="/">View Item Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@ const ItemMarket = () => {
                                             <img className='rounded rounded-circle me-2' src="/images/author.jpg" alt="" />
                                             <span className='d-flex flex-column  justify-content-center'>
                                                 <span>Liberty Artist</span>
-                                                <a href=''>@libertyart</a>
+                                                <a href='/'>@libertyart</a>
                                             </span>
                                         </div>
                                     </div>
@@ -91,7 +91,7 @@ const ItemMarket = () => {
                                         </div>
                                     </div>
                                     <div className="nft-market-item-link mt-auto">
-                                        <a href="">View Item Details</a>
+                                        <a href="/">View Item Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@ const ItemMarket = () => {
                                             <img className='rounded rounded-circle me-2' src="/images/author.jpg" alt="" />
                                             <span className='d-flex flex-column  justify-content-center'>
                                                 <span>Liberty Artist</span>
-                                                <a href=''>@libertyart</a>
+                                                <a href='/'>@libertyart</a>
                                             </span>
                                         </div>
                                     </div>
@@ -127,7 +127,7 @@ const ItemMarket = () => {
                                         </div>
                                     </div>
                                     <div className="nft-market-item-link mt-auto">
-                                        <a href="">View Item Details</a>
+                                        <a href="/">View Item Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -145,7 +145,7 @@ const ItemMarket = () => {
                                             <img className='rounded rounded-circle me-2' src="/images/author.jpg" alt="" />
                                             <span className='d-flex flex-column  justify-content-center'>
                                                 <span>Liberty Artist</span>
-                                                <a href=''>@libertyart</a>
+                                                <a href='/'>@libertyart</a>
                                             </span>
                                         </div>
                                     </div>
@@ -163,7 +163,7 @@ const ItemMarket = () => {
                                         </div>
                                     </div>
                                     <div className="nft-market-item-link mt-auto">
-                                        <a href="">View Item Details</a>
+                                        <a href="/">View Item Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@ const ItemMarket = () => {
                                             <img className='rounded rounded-circle me-2' src="/images/author.jpg" alt="" />
                                             <span className='d-flex flex-column  justify-content-center'>
                                                 <span>Liberty Artist</span>
-                                                <a href=''>@libertyart</a>
+                                                <a href='/'>@libertyart</a>
                                             </span>
                                         </div>
                                     </div>
@@ -199,7 +199,7 @@ const ItemMarket = () => {
                                         </div>
                                     </div>
                                     <div className="nft-market-item-link mt-auto">
-                                        <a href="">View Item Details</a>
+                                        <a href="/">View Item Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -217,7 +217,7 @@ const ItemMarket = () => {
                                             <img className='rounded rounded-circle me-2' src="/images/author.jpg" alt="" />
                                             <span className='d-flex flex-column  justify-content-center'>
                                                 <span>Liberty Artist</span>
-                                                <a href=''>@libertyart</a>
+                                                <a href='/'>@libertyart</a>
                                             </span>
                                         </div>
                                     </div>
@@ -235,7 +235,7 @@ const ItemMarket = () => {
                                         </div>
                                     </div>
                                     <div className="nft-market-item-link mt-auto">
-                                        <a href="">View Item Details</a>
+                                        <a href="/">View Item Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -261,7 +261,7 @@ const ItemMarket = () => {
                                             <img className='rounded rounded-circle me-2' src="/images/author.jpg" alt="" />
                                             <span className='d-flex flex-column  justify-content-center'>
                                                 <span>Liberty Artist</span>
-                                                <a href=''>@libertyart</a>
+                                                <a href='/'>@libertyart</a>
                                             </span>
                                         </div>
                                     </div>
@@ -279,7 +279,7 @@ const ItemMarket = () => {
                                         </div>
                                     </div>
                                     <div className="nft-market-item-link mt-auto">
-                                        <a href="">View Item Details</a>
+                                        <a href="/">View Item Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -297,7 +297,7 @@ const ItemMarket = () => {
                                             <img className='rounded rounded-circle me-2' src="/images/author.jpg" alt="" />
                                             <span className='d-flex flex-column  justify-content-center'>
                                                 <span>Liberty Artist</span>
-                                                <a href=''>@libertyart</a>
+                                                <a href='/'>@libertyart</a>
                                             </span>
                                         </div>
                                     </div>
@@ -315,7 +315,7 @@ const ItemMarket = () => {
                                         </div>
                                     </div>
                                     <div className="nft-market-item-link mt-auto">
-                                        <a href="">View Item Details</a>
+                                        <a href="/">View Item Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -341,7 +341,7 @@ const ItemMarket = () => {
                                             <img className='rounded rounded-circle me-2' src="/images/author.jpg" alt="" />
                                             <span className='d-flex flex-column  justify-content-center'>
                                                 <span>Liberty Artist</span>
-                                                <a href=''>@libertyart</a>
+                                                <a href='/'>@libertyart</a>
                                             </span>
                                         </div>
                                     </div>
@@ -359,7 +359,7 @@ const ItemMarket = () => {
                                         </div>
                                     </div>
                                     <div className="nft-market-item-link mt-auto">
-                                        <a href="">View Item Details</a>
+                                        <a href="/">View Item Details</a>
                                     </div>
                                 </div>
                             </div>

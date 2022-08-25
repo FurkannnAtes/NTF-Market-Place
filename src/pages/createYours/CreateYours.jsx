@@ -2,7 +2,7 @@ import React from 'react'
 import Footer from '../../components/footer/Footer'
 import Navbar from '../../components/navbar/Navbar'
 import OneItemDetails from '../../components/oneItemDetails/OneItemDetails'
-import ItemDetails from '../itemDetails/ItemDetails'
+
 
 import "./CreateYours.css"
 

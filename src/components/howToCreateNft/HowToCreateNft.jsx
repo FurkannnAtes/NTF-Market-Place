@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 import "./HowToCreateNft.css"
 
@@ -35,7 +35,7 @@ const HowToCreateNft = () => {
                     <h2 className='htc-box-title'>
                         Set Up Your Wallet
                     </h2>
-                    <p className='htc-box-content'>NFT means Non-Fungible Token that are used in digital <a href="" className='text-decoration-none '>cryptocurrency</a>  markets. There are many different kinds of NFTs in the industry.</p>
+                    <p className='htc-box-content'>NFT means Non-Fungible Token that are used in digital <a href="/" className='text-decoration-none '>cryptocurrency</a>  markets. There are many different kinds of NFTs in the industry.</p>
                 </div>
             </div>
         </div>
